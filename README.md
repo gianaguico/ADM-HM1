@@ -1,2 +1,3 @@
 # ADM_HM1
-Repository for the first Homework of ADM
+This repository has been created for the first homework for Algorithmic Methods for Data Mining, a.y. 2022/2023.
+
